@@ -1,0 +1,31 @@
+_repo: '---_24050'
+_version: 0.1.0
+alternative_title:
+- 菜根谭
+- Cai Gen Tan
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hong, Zicheng, active 1596
+    aliases:
+    - 洪自誠
+    - 洪自诚
+    gutenberg_agent_id: '26191'
+    url: http://www.gutenberg.org/2009/agents/26191
+    wikipedia: http://en.wikipedia.org/wiki/Hong_Zicheng
+description: ''
+gutenberg_issued: '2007-12-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24050'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BJ'
+- !lcsh 'Conduct of life'
+title: 菜根譚
+url: http://www.gutenberg.org/ebooks/24050
